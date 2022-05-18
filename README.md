@@ -7,3 +7,9 @@
 <h1>🔧 Dependencias</h1>
 
 <ul>
+
+ <br>
+
+<h1>📚 Requisitos</h1>
+
+<ul>
