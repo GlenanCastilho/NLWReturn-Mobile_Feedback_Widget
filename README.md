@@ -5,8 +5,6 @@
 <br>
 
 <h1>🔧 Dependencias</h1>
-
-<ul>
  
 <br>
 
