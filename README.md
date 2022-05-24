@@ -18,7 +18,7 @@
   <li>React Native Iphone x Helper</li> 
   <li>React Native Reanimated</li> 
   <li>Phosphor React Native</li> 
-
+   <li>Typescript</li>
 </ul>
  
 <br>
