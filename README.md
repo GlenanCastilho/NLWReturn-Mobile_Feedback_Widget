@@ -11,9 +11,14 @@
 <h1>🔧 Dependencias</h1>
  
  <ul>
-  <li></li>
-  <li></li>
-  <li></li> 
+  <li>Axios</li>
+  <li>Expo</li>
+  <li>Phosphor React Native</li> 
+   <li>React Native Gesture Handler</li> 
+  <li>React Native Iphone x Helper</li> 
+  <li>React Native Reanimated</li> 
+  <li>Phosphor React Native</li> 
+
 </ul>
  
 <br>
