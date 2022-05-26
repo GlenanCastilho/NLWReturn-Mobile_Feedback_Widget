@@ -45,5 +45,5 @@
   
   Rodar a aplicação:
   <br>
-  $ yarn 
+  $ yarn start
 </h4>
